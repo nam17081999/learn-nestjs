@@ -2,3 +2,4 @@
 .docker
 dist
 /.idea
+.env
